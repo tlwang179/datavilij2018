@@ -1,0 +1,19 @@
+.chart-plot-background{
+    -fx-border-color:black;
+    -fx-border-style:solid;
+    -fx-border-width:4px;
+}
+.axis{
+    -fx-tick-length:15;
+    -fx-tick-label-fill:black;
+    -fx-minor-tick-length:7;
+}
+.axis-tick-mark{
+    -fx-stroke-width: 3;
+    -fx-stroke: #386B28;
+}
+.chart-series-line{
+    -fx-stroke:transparent;
+}
+
+
